@@ -1,0 +1,20 @@
+target
+.attach*
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.ipr
+*.iml
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+.factorypath
+
+doc/_book
+console/web/node*/
+admin/node_modules
+web/node_modules
